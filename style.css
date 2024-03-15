@@ -63,7 +63,7 @@ aside{
 
 }
 
-.sidebarImages{
+.sidebarImages img{
     padding-left: 10px;
     object-fit: contain;
     height: 100px;
