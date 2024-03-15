@@ -1,0 +1,29 @@
+/*navigation ul is the actual list box*/
+.navigation ul{
+    list-style-type: none;
+    background-color: rgb(49, 49, 49);
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+/* navigation li controls the list item behavior*/
+.navigation li{
+    float: center;
+    display: inline-block;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* navigation a is the text itself literally the a anchor in the navigation element*/
+.navigation a{
+    text-decoration: none;
+    color: #eca1a6;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+}
