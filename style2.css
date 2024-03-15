@@ -1,3 +1,15 @@
+.header{
+    display: inline-b;
+}
+
+body {
+    background-image: url("free-birds-1920x1080.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 /*navigation ul is the actual list box*/
 .navigation ul{
     list-style-type: none;
@@ -26,4 +38,7 @@
 .logo{
     height: 50px;
     width: 50px;
+    padding-left: 50px;
+    padding-top: 10px;
+
 }
