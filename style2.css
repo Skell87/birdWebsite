@@ -42,3 +42,28 @@ body {
     padding-top: 10px;
 
 }
+
+/* aside content is for the sidebar.*/
+aside{
+    background-color: blue;
+    float: right;
+    height: 400px;
+
+}
+
+.sidebarImages{
+    padding-left: 10px;
+    height: 50px;
+    width: 50px;
+}
+
+main{
+    background-color: #eca1a6;
+    padding-right: 150px;
+    width: 20%;
+
+}
+
+footer{
+    background-color: aqua;
+}
