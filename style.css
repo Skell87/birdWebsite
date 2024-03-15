@@ -66,6 +66,8 @@ aside{
 .sidebarImages{
     padding-left: 10px;
     object-fit: contain;
+    height: 100px;
+    width: 100px;
 }
 
 main{
